@@ -21,7 +21,7 @@ class SurveyPresenter {
     }
     
     func postSurveyResult(_ result: ORKTaskResult) {
-        print(result)
+        debugPrint(result)
     }
     
 }
