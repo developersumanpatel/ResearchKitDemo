@@ -1,6 +1,7 @@
 # ResearchKitDemo
 
-This is useful to take research from users. Here there are some pre defined tasks are added. 
+This is useful to take research from users. Here are some pre defined tasks.
+
 Task Type 
 - Introduction 
 - Text Input
